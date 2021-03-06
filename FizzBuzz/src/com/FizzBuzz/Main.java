@@ -21,5 +21,6 @@ public class Main {
             System.out.println("Buzz");
         }
         else System.out.println(fizzBuzz + " divided by 5 or 3 is not a whole number");
+        System.out.println("The result");
     }
 }
